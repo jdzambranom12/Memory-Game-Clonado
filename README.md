@@ -1,7 +1,7 @@
 # Memory-Game
-This is a memory game, created using HTML, CSS, and JavaScript.
-Rules of playing are:- 
- 1. Click on any two card and they will flip,
- 2. if they are of same kind then they will stay fliped otherwise they will fliped again.
- 3. Game will finish when you will have unfliped all the cards.
- 4. For Hard level only game will finsih either if you unfliped all cards or you ran out of given moves.
+Este es una copia de un juego de memoria, creado usando HTML, CSS y JavaScript. esta copia se usa con propósitos académicos y de aprendizaje.
+Las reglas del juego son:- 
+ 1. Haz clic en dos cartas y se voltearán.
+ 2. Si son del mismo tipo, permanecerán volteadas; de lo contrario, se voltearán de nuevo.
+ 3. El juego terminará cuando hayas volteado todas las cartas.
+ 4. En el nivel difícil, el juego terminará ya sea cuando voltees todas las cartas o cuando se te acaben los movimientos permitidos.
