@@ -7,7 +7,7 @@ body {
     width: 100vw;
     height: 100vh;
     box-sizing: border-box;
-    background-color: rgb(50, 119, 248);
+    background-color: rgba(117, 156, 230, 0.884);
     display: flex;
 }
 .board{
@@ -76,7 +76,7 @@ body {
 .card {
     height: 100px;
     width: 91px;
-    background-color: rgb(50, 119, 248, 0.651);
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
     margin: 0px 10px;
     position: relative;
